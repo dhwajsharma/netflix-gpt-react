@@ -21,6 +21,13 @@
 - added hardcoded values to the constant file.
 - register tmdb api & create an app & get access token
 - get data from tmdb now playing movies list API
+- custom hook of nowPlayingMovies
+- create movieSlice
+- update store with movies data
+- planning for MainContainer && SecondaryContainer
+- Fetch Data for trailerVideo
+- update store with trailerVideo data
+- embedded the youtube video and make it autoplay and mute
 
 # Features
 
