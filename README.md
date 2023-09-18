@@ -28,6 +28,12 @@
 - Fetch Data for trailerVideo
 - update store with trailerVideo data
 - embedded the youtube video and make it autoplay and mute
+- built secondary container
+- built movie list
+- built movie card
+- found out tmdb image cdn url
+- usePopularMovies custom hook
+- gpt search feature
 
 # Features
 
