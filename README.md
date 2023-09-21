@@ -33,7 +33,9 @@
 - built movie card
 - found out tmdb image cdn url
 - usePopularMovies custom hook
-- gpt search feature
+- gpt search page
+- gpt search bar
+- multi language support
 
 # Features
 
